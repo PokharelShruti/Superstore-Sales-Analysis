@@ -1,12 +1,12 @@
 # Superstore-Sales-Analysis
 Analyze retail sales data to uncover key business insights and visualize performance trends using SQL and Power BI.
 
-<pre>**Objective:**
+**Objective:**
 
-> Analyze retail sales data to uncover key business insights and visualize performance trends using SQL and Power BI.
+<pre>> Analyze retail sales data to uncover key business insights and visualize performance trends using SQL and Power BI.</pre>
 
 **Key Tasks & Features:**
-
+<pre>
 > Imported and cleaned the Superstore sales dataset using Microsoft SQL Server 2014
 > Handled data transformation and preparation using SQL queries and Power BI Power Query Editor
 > Built a fully interactive and visually appealing dashboard in Power BI
@@ -17,11 +17,11 @@ Sales by Category (bar chart)
 Top 10 Products by Sales & Profit (table)
 Sales by State and Region (map visualization)
 Added slicers for dynamic filtering by Year, Category, and Region
-Optimized the layout with consistent alignment, spacing, and color theme
+Optimized the layout with consistent alignment, spacing, and color theme </pre>
 
 **Tools & Technologies Used:**
 
-Microsoft SQL Server 2014 – Data import, transformation, and SQL querying
+<pre>Microsoft SQL Server 2014 – Data import, transformation, and SQL querying
 Power BI Desktop – Data modeling, dashboard creation, visual design
 Google Sheets – Initial data inspection and optional cleanup
 SSIS Import Wizard – For importing CSV data into SQL Server</pre>
