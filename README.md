@@ -25,5 +25,6 @@ Optimized the layout with consistent alignment, spacing, and color theme </pre>
 Power BI Desktop – Data modeling, dashboard creation, visual design
 Google Sheets – Initial data inspection and optional cleanup
 SSIS Import Wizard – For importing CSV data into SQL Server</pre>
+[Dataset](https://docs.google.com/spreadsheets/d/1udnVVqcgWi0ojYVutYQpAZcTe5nCKL01XaoxqzH3Yp4/edit?gid=1492265542#gid=1492265542) <br>
 
 ![Image](https://github.com/user-attachments/assets/f62e4ece-e022-41c0-9b20-b4054710704f)<br>-Power BI Dashboard
